@@ -82,6 +82,7 @@
     <!-- Šípka späť na domovskú stránku -->
     <a href="../../index.php" class="back-arrow">&#8592;</a>
 
+    <!-- Login thumbnail -->
     <div class="login-container">
         <h2>Login</h2>
         <input type="text" placeholder="Email" required>
